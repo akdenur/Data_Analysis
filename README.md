@@ -42,5 +42,8 @@ Tek sayfalık profesyonel yönetici özetinde şu görseller kullanılmıştır:
 
 ## 🚀 Projeyi Çalıştırma
 
-1. `Python_Analiz/` klasöründeki `.ipynb` dosyasını Jupyter Notebook veya Google Colab üzerinden çalıştırarak veri işleme adımlarını inceleyebilirsiniz.
-2. `PowerBI_Dashboard.pbix` dosyasını Power BI Desktop ile açarak interaktif veri modelini ve raporu deneyimleyebilirsiniz.
+1. **Veri Setlerinin Temini:** Projeyi yerelinizde çalıştırmadan önce aşağıdaki açık veri setlerini indirerek proje dizininde oluşturacağınız `data/` klasörüne ekleyin:
+   * [İstanbul Kültür Varlıkları Envanteri](https://data.ibb.gov.tr/dataset/istanbul-kultur-varliklari-envanteri)
+   * [İlçe Bazlı Nüfus Bilgileri](https://data.ibb.gov.tr/dataset/nufus-bilgileri)
+2. `Python_Analiz/` klasöründeki `.ipynb` dosyasını Jupyter Notebook veya Google Colab üzerinden çalıştırarak veri işleme ve EDA adımlarını inceleyebilirsiniz.
+3. `PowerBI_Dashboard.pbix` dosyasını Power BI Desktop ile açarak interaktif veri modelini, çapraz filtreleme (cross-filtering) yeteneklerini ve oluşturulan dashboard'u deneyimleyebilirsiniz.
